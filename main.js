@@ -10,7 +10,7 @@ if(!gl){
 }
 
 //Time
-var time = 0.0;
+var time = 0.6;
 
 //************** Shader sources **************
 
